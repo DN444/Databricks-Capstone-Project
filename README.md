@@ -15,7 +15,12 @@
 ## 🔮 ML Model
 - **Algorithm:** Random Forest Regressor
 - **Features:** PM2.5 lag, temp, humidity, wind, day_of_week, month
-- **Performance:** RMSE: 16.4, MAE: 11.9, R²: 0.854
+- **Performance:** 
+   Log RMSE:     0.536
+   PM2.5 RMSE:   56.4 µg/m³
+   PM2.5 MAE:    28.4 µg/m³
+   PM2.5 MAPE:   49.6%
+   R² (log):     0.682
 - **Registry:** `workspace.air_quality.air_quality_forecast_micro`
 - **Endpoint:** `air-quality-dashboard`
 
