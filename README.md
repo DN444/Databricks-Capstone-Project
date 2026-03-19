@@ -1,4 +1,4 @@
-# Databricks-Capstone-Project
+# Databricks-Capstone-Project-2
 
 # 🌡️ Air Quality Prediction Pipeline
 
@@ -24,10 +24,6 @@
 - **Registry:** `workspace.air_quality.air_quality_forecast_micro`
 - **Endpoint:** `air-quality-dashboard`
 
-## 📈 Production Dashboard
-🔗 [Live Dashboard](https://dbc-d3f5a3ae-d5c8.cloud.databricks.com/dashboardsv3/01f0ff7a538110dc973b2960a6daf4da/published?o=7474659613009107)
-- Live PM2.5 trends by city
-- AQI status (🟢🟡🟠)
 - Pollution alerts
 - Dataset statistics
 
